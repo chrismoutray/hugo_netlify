@@ -10,6 +10,8 @@ author = "Chris"
 Hello, testing a new post
 Calling out to World
 
+now this is an edit direct from **github**
+
 <form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
@@ -21,3 +23,6 @@ Calling out to World
     <button type="submit">Send</button>
   </p>
 </form>
+
+
+
